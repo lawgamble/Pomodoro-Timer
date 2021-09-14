@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-![Timer]()
+![Timer](https://raw.githubusercontent.com/lawgamble/Pomodoro-Timer/main/screenshots/pomo.PNG)
 
 A Pomodoro timer created in React. Alternates between study and break sessions with adjustable lengths, and keeps the user updated on session changes using time display in the tab title/page and an audio alert whenever the session changes.
 
@@ -15,8 +15,7 @@ The app was created to practice use of complex algorithmic logic and state manag
 
 ## Stack
 * React :  User interactivity (starting/stopping a session, adjusting session lengths, pausing the timer)
-  
-* Bootstrap: Rapid iteration of the GUI.
+* React Bootstrap
 
 
 ## Future Goals
